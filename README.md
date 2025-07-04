@@ -1,7 +1,4 @@
-# Adidas-Sales-Performance-Dashboard--2020-2021
-This project showcases a sales performance dashboard I created in Microsoft Excel as part of my data analytics learning journey. The dataset was sourced from a financial modeling course and used for educational and practice.
-
-# Adidas Sales Performance Dashboard (Excel)
+# Adidas-Sales-Performance-Dashboard-2020-2021
 
 As part of my learning journey in data analytics, I challenged myself to design a simple yet insightful dashboard using Microsoft Excel. The dataset was provided through a financial modeling course I’m currently taking.
 
@@ -27,7 +24,6 @@ The dashboard analyzes Adidas sales performance across:
 - Top-selling products included Men’s Street Footwear ($209M), Women’s Apparel ($179M), and Men’s Athletic Footwear ($154M).  
 - Foot Locker and West Gear were the leading retailers, contributing over 50% of total sales. In contrast, Amazon and Walmart each accounted for less than $80M across both years.
 - In-store purchases accounted for 40% of total sales, followed by outlet (33%) and online (27%). In-store was the most used channel in the Northeast, West, and Southeast regions, while online was more prominent in the Southeast and South.
-- Sales peaked in **July and December 2021**, with each month generating approximately **$78M**.
 
 ---
 
