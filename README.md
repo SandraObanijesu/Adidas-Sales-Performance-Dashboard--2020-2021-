@@ -1,5 +1,5 @@
 # Adidas-Sales-Performance-Dashboard-2020-2021
-![IMG_6963.jpeg]https://github.com/SandraObanijesu/Adidas-Sales-Performance-Dashboard--2020-2021-/blob/main/IMG_6963.jpeg
+![IMG_6963.jpeg](https://github.com/SandraObanijesu/Adidas-Sales-Performance-Dashboard--2020-2021-/blob/main/IMG_6963.jpeg?raw=true)
 As part of my learning journey in data analytics, I challenged myself to design a simple yet insightful dashboard using Microsoft Excel. The dataset was provided through a financial modeling course I’m currently taking.
 
 This project helped me build on two essential analytics skills: **visual storytelling** and **business insight extraction**.
