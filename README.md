@@ -16,7 +16,9 @@ The dataset focuses on a fictitious company called Adidas, which operates across
 - Women’s Apparel,
 - Women’s Street Footwear 
 - Women’s Athletic Footwear
-Adidas operates in the U.S. market, across five regions: Northeast, South, West, Midwest and Southeast and all 50 states. The business sells through six major retailers  which are
+
+Adidas operates in the U.S. market, across five regions: Northeast, South, West, Midwest and Southeast and all 50 states. 
+The business sells through six major retailers  which are
 - West Gear, 
 - Foot Locker, 
 - Sport Direct,
